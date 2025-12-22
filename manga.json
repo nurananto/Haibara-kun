@@ -1,0 +1,114 @@
+{
+  "manga": {
+    "title": "Haibara-kun no Tsuyokute Seishun New Game",
+    "alternativeTitle": "灰原くんの強くて青春ニューゲーム？",
+    "cover": "",
+    "description": "Karya populer Haibara-kun no Tsuyokute Seishun New Game mendapatkan adaptasi manga! Natsuki Haibara, seorang pemuda yang gagal debut di SMA dan menjalani masa sekolah yang suram, kini telah menjadi mahasiswa tingkat empat. Tepat sebelum memasuki dunia kerja, tiba-tiba ia dikirim kembali ke masa lalu—tujuh tahun yang lalu, tepat sebelum masuk SMA! Diberi kesempatan untuk mengulang kehidupan SMA yang penuh penyesalan, Natsuki memanfaatkan pengalaman masa lalunya dan berhasil menjadi bagian dari kelompok enam orang paling populer dan menarik di kelas! Dan di dalam kelompok itu, ada Hikari, gadis cantik yang dulu ia sukai dalam diam…!? Seorang pemuda berbakat yang tidak sadar akan potensinya memulai kembali masa mudanya dalam komedi romantis sekolah bertema strong and new game!",
+    "author": "Amamiya Kazuki",
+    "artist": "Misaomaru",
+    "genre": [
+      "Shounen",
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life",
+      "School Life",
+      "Time Travel"
+    ],
+    "status": "ONGOING",
+    "views": 0,
+    "links": {
+      "mangadex": "https://mangadex.org/title/67926398-0e8d-48ba-85cc-182a4d75ad4b/haibara-kun-no-tsuyokute-seishun-new-game",
+      "raw": "https://firecross.jp/ebook/series/568"
+    },
+    "repoUrl": "https://raw.githubusercontent.com/nurananto/Haibara-kun/main/",
+    "imagePrefix": "Image",
+    "imageFormat": "webp",
+    "lockedChapters": [],
+    "type": "webtoon"
+  },
+  "chapters": {
+    "2": {
+      "title": "Chapter 2",
+      "chapter": 2,
+      "folder": "2",
+      "uploadDate": "2025-12-22T19:58:06+07:00",
+      "totalPages": 32,
+      "pages": 32,
+      "locked": false,
+      "views": 0
+    },
+    "3": {
+      "title": "Chapter 3",
+      "chapter": 3,
+      "folder": "3",
+      "uploadDate": "2025-12-22T19:58:06+07:00",
+      "totalPages": 32,
+      "pages": 32,
+      "locked": false,
+      "views": 0
+    },
+    "4": {
+      "title": "Chapter 4",
+      "chapter": 4,
+      "folder": "4",
+      "uploadDate": "2025-12-22T19:58:06+07:00",
+      "totalPages": 32,
+      "pages": 32,
+      "locked": false,
+      "views": 0
+    },
+    "5": {
+      "title": "Chapter 5",
+      "chapter": 5,
+      "folder": "5",
+      "uploadDate": "2025-12-22T19:58:06+07:00",
+      "totalPages": 32,
+      "pages": 32,
+      "locked": false,
+      "views": 0
+    },
+    "6": {
+      "title": "Chapter 6",
+      "chapter": 6,
+      "folder": "6",
+      "uploadDate": "2025-12-22T19:58:06+07:00",
+      "totalPages": 32,
+      "pages": 32,
+      "locked": false,
+      "views": 0
+    },
+    "7": {
+      "title": "Chapter 7",
+      "chapter": 7,
+      "folder": "7",
+      "uploadDate": "2025-12-22T19:58:06+07:00",
+      "totalPages": 32,
+      "pages": 32,
+      "locked": false,
+      "views": 0
+    },
+    "8": {
+      "title": "Chapter 8",
+      "chapter": 8,
+      "folder": "8",
+      "uploadDate": "2025-12-22T19:58:06+07:00",
+      "totalPages": 32,
+      "pages": 32,
+      "locked": false,
+      "views": 0
+    },
+    "9": {
+      "title": "Chapter 9",
+      "chapter": 9,
+      "folder": "9",
+      "uploadDate": "2025-12-22T19:58:06+07:00",
+      "totalPages": 32,
+      "pages": 32,
+      "locked": false,
+      "views": 0
+    }
+  },
+  "lastUpdated": "2025-12-22T19:58:51+07:00",
+  "lastChapterUpdate": "2025-12-22T19:58:06+07:00"
+}
