@@ -16,7 +16,7 @@
       "Time Travel"
     ],
     "status": "ONGOING",
-    "views": 65,
+    "views": 76,
     "links": {
       "mangadex": "https://mangadex.org/title/67926398-0e8d-48ba-85cc-182a4d75ad4b/haibara-kun-no-tsuyokute-seishun-new-game",
       "raw": "https://firecross.jp/ebook/series/568"
@@ -36,7 +36,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 22
+      "views": 23
     },
     "3": {
       "title": "Chapter 3",
@@ -76,7 +76,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 5
+      "views": 6
     },
     "7": {
       "title": "Chapter 7",
@@ -86,7 +86,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 4
+      "views": 6
     },
     "8": {
       "title": "Chapter 8",
@@ -96,7 +96,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 5
+      "views": 6
     },
     "9": {
       "title": "Chapter 9",
@@ -106,7 +106,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 21
+      "views": 23
     },
     "10": {
       "title": "Chapter 10",
@@ -116,7 +116,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 23
+      "views": 26
     },
     "11": {
       "title": "Chapter 11",
@@ -126,9 +126,9 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 0
+      "views": 7
     }
   },
-  "lastUpdated": "2025-12-24T21:44:10+07:00",
+  "lastUpdated": "2025-12-25T00:21:17+07:00",
   "lastChapterUpdate": "2025-12-24T21:43:20+07:00"
 }
