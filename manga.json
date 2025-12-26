@@ -16,7 +16,7 @@
       "Time Travel"
     ],
     "status": "ONGOING",
-    "views": 115,
+    "views": 136,
     "links": {
       "mangadex": "https://mangadex.org/title/67926398-0e8d-48ba-85cc-182a4d75ad4b/haibara-kun-no-tsuyokute-seishun-new-game",
       "raw": "https://firecross.jp/ebook/series/568"
@@ -36,7 +36,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 30
+      "views": 34
     },
     "3": {
       "title": "Chapter 3",
@@ -46,7 +46,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 14
+      "views": 17
     },
     "4": {
       "title": "Chapter 4",
@@ -56,7 +56,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 16
+      "views": 19
     },
     "5": {
       "title": "Chapter 5",
@@ -66,7 +66,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 11
+      "views": 12
     },
     "6": {
       "title": "Chapter 6",
@@ -76,7 +76,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 10
+      "views": 11
     },
     "7": {
       "title": "Chapter 7",
@@ -86,7 +86,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 11
+      "views": 12
     },
     "8": {
       "title": "Chapter 8",
@@ -96,7 +96,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 12
+      "views": 13
     },
     "9": {
       "title": "Chapter 9",
@@ -106,7 +106,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 30
+      "views": 32
     },
     "10": {
       "title": "Chapter 10",
@@ -116,7 +116,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 42
+      "views": 44
     },
     "11": {
       "title": "Chapter 11",
@@ -126,9 +126,9 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 35
+      "views": 42
     }
   },
-  "lastUpdated": "2025-12-26T00:21:59+07:00",
+  "lastUpdated": "2025-12-27T00:21:15+07:00",
   "lastChapterUpdate": "2025-12-24T21:43:20+07:00"
 }
